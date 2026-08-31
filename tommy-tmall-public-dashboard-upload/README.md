@@ -1,6 +1,6 @@
 # Tommy Hilfiger 天猫旗舰店公开监控网页
 
-公开地址：https://liyo-leeee.github.io/yuyu-website/
+公开地址：https://liyo-leeee.github.io/yuyu-website/tommy-tmall-public-dashboard-upload/
 
 ## 本地预览
 
@@ -12,7 +12,7 @@
 
 ## 更新数据
 
-重新执行抓取并运行构建脚本，替换 data.js 后重新部署即可。
+每天 21:00 刷新列表数据，并低频分批补充详情页的优惠前后价格、颜色、色号和颜色标签。重新运行构建脚本并推送更新后，GitHub Pages 会自动部署。
 
 ## 公开数据提醒
 
