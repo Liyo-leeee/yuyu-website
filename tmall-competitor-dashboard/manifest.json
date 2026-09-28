@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T09:08:34.524Z",
+  "generated_at": "2026-09-28T09:32:52.650Z",
   "store_count": 13,
   "stores": [
     {
@@ -9,7 +9,7 @@
       "host": "aigle.tmall.com",
       "url": "https://aigle.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T06:25:03.457Z",
+      "updatedAt": "2026-09-28T09:32:42.848Z",
       "productCount": 868,
       "categoryCount": 16,
       "categorySummary": [
@@ -78,10 +78,14 @@
           "count": 5
         }
       ],
-      "detailCovered": 22,
-      "parameterCovered": 22,
-      "imageCovered": 317,
-      "listSalesCovered": 868
+      "detailCovered": 23,
+      "parameterCovered": 23,
+      "imageCovered": 318,
+      "listSalesCovered": 868,
+      "priceAfterCovered": 1,
+      "priceBeforeCovered": 1,
+      "detailSoldCovered": 1,
+      "colorCovered": 1
     },
     {
       "slug": "calvin-klein",
@@ -173,7 +177,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 417,
-      "listSalesCovered": 2099
+      "listSalesCovered": 2098,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "columbia",
@@ -221,7 +229,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 57,
-      "listSalesCovered": 57
+      "listSalesCovered": 57,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "hazzys",
@@ -301,7 +313,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 445,
-      "listSalesCovered": 1965
+      "listSalesCovered": 0,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "heytopbbg",
@@ -357,7 +373,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 50,
-      "listSalesCovered": 50
+      "listSalesCovered": 50,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "hugo-boss",
@@ -449,7 +469,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 109,
-      "listSalesCovered": 489
+      "listSalesCovered": 489,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "lululemon",
@@ -525,7 +549,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 410,
-      "listSalesCovered": 1963
+      "listSalesCovered": 0,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "nike",
@@ -577,7 +605,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 66,
-      "listSalesCovered": 66
+      "listSalesCovered": 66,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "ralph-lauren",
@@ -661,7 +693,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 356,
-      "listSalesCovered": 2004
+      "listSalesCovered": 0,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "the-north-face",
@@ -741,7 +777,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 209,
-      "listSalesCovered": 852
+      "listSalesCovered": 0,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "tommy-hilfiger",
@@ -825,7 +865,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 607,
-      "listSalesCovered": 1787
+      "listSalesCovered": 1787,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "wilson",
@@ -881,7 +925,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 62,
-      "listSalesCovered": 62
+      "listSalesCovered": 62,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     },
     {
       "slug": "banana-under",
@@ -945,7 +993,11 @@
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 158,
-      "listSalesCovered": 472
+      "listSalesCovered": 471,
+      "priceAfterCovered": 0,
+      "priceBeforeCovered": 0,
+      "detailSoldCovered": 0,
+      "colorCovered": 0
     }
   ]
 }
