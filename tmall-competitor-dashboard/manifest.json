@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T04:46:08.871Z",
+  "generated_at": "2026-09-28T04:59:10.669Z",
   "store_count": 13,
   "stores": [
     {
@@ -47,13 +47,13 @@
       "name": "hazzys官方旗舰店",
       "host": "hazzys.tmall.com",
       "url": "https://hazzys.tmall.com/",
-      "snapshotDate": null,
-      "updatedAt": null,
-      "productCount": 0,
+      "snapshotDate": "2026-09-28",
+      "updatedAt": "2026-09-28T04:59:10.212Z",
+      "productCount": 1965,
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 0,
-      "listSalesCovered": 0
+      "imageCovered": 445,
+      "listSalesCovered": 1965
     },
     {
       "slug": "heytopbbg",
