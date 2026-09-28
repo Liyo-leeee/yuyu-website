@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T04:45:24.684Z",
+  "generated_at": "2026-09-28T04:46:08.871Z",
   "store_count": 13,
   "stores": [
     {
@@ -34,8 +34,8 @@
       "name": "Columbia官方旗舰店",
       "host": "columbia.tmall.com",
       "url": "https://columbia.tmall.com/",
-      "snapshotDate": null,
-      "updatedAt": null,
+      "snapshotDate": "2026-09-28",
+      "updatedAt": "2026-09-28T04:46:08.652Z",
       "productCount": 0,
       "detailCovered": 0,
       "parameterCovered": 0,
