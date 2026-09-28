@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T15:35:06.378Z",
+  "generated_at": "2026-09-28T18:03:52.953Z",
   "store_count": 13,
   "stores": [
     {
@@ -188,14 +188,14 @@
       "name": "Columbia官方旗舰店",
       "host": "columbia.tmall.com",
       "url": "https://columbia.tmall.com/",
-      "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T15:35:06.047Z",
+      "snapshotDate": "2026-09-29",
+      "updatedAt": "2026-09-28T18:03:52.667Z",
       "productCount": 330,
       "categoryCount": 16,
       "categorySummary": [
         {
           "category": "防晒/功能上衣",
-          "count": 62
+          "count": 63
         },
         {
           "category": "冲锋衣/硬壳",
@@ -203,7 +203,7 @@
         },
         {
           "category": "其他",
-          "count": 58
+          "count": 54
         },
         {
           "category": "夹克/外套",
@@ -211,7 +211,7 @@
         },
         {
           "category": "鞋履",
-          "count": 40
+          "count": 41
         },
         {
           "category": "羽绒服/马甲",
@@ -219,7 +219,7 @@
         },
         {
           "category": "POLO衫",
-          "count": 8
+          "count": 9
         },
         {
           "category": "裤装",
@@ -246,26 +246,26 @@
           "count": 2
         },
         {
+          "category": "针织/毛衣",
+          "count": 2
+        },
+        {
           "category": "包袋",
           "count": 1
         },
         {
           "category": "内衣/家居",
           "count": 1
-        },
-        {
-          "category": "针织/毛衣",
-          "count": 1
         }
       ],
-      "detailCovered": 86,
-      "parameterCovered": 86,
+      "detailCovered": 111,
+      "parameterCovered": 111,
       "imageCovered": 330,
       "listSalesCovered": 330,
-      "priceAfterCovered": 86,
-      "priceBeforeCovered": 83,
-      "detailSoldCovered": 86,
-      "colorCovered": 86
+      "priceAfterCovered": 111,
+      "priceBeforeCovered": 106,
+      "detailSoldCovered": 111,
+      "colorCovered": 111
     },
     {
       "slug": "hazzys",
