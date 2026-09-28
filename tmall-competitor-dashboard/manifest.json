@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T08:43:23.720Z",
+  "generated_at": "2026-09-28T08:46:14.862Z",
   "store_count": 13,
   "stores": [
     {
@@ -833,13 +833,13 @@
       "host": "wilson.tmall.com",
       "url": "https://wilson.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T08:43:23.180Z",
-      "productCount": 54,
+      "updatedAt": "2026-09-28T08:46:14.318Z",
+      "productCount": 62,
       "categoryCount": 10,
       "categorySummary": [
         {
           "category": "运动用品",
-          "count": 19
+          "count": 24
         },
         {
           "category": "防晒/功能上衣",
@@ -850,16 +850,16 @@
           "count": 6
         },
         {
-          "category": "T恤",
-          "count": 5
+          "category": "POLO衫",
+          "count": 6
         },
         {
           "category": "裙装",
-          "count": 4
+          "count": 5
         },
         {
-          "category": "POLO衫",
-          "count": 4
+          "category": "T恤",
+          "count": 5
         },
         {
           "category": "配饰",
@@ -880,8 +880,8 @@
       ],
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 54,
-      "listSalesCovered": 54
+      "imageCovered": 62,
+      "listSalesCovered": 62
     },
     {
       "slug": "banana-under",
