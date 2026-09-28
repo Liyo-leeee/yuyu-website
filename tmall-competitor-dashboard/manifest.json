@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T07:25:15.951Z",
+  "generated_at": "2026-09-28T07:25:59.544Z",
   "store_count": 13,
   "stores": [
     {
@@ -459,7 +459,7 @@
       "host": "nike.tmall.com",
       "url": "https://nike.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T05:16:02.060Z",
+      "updatedAt": "2026-09-28T07:25:59.156Z",
       "productCount": 0,
       "categoryCount": 0,
       "categorySummary": [],
