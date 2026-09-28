@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:29:18.047Z",
+  "generated_at": "2026-09-28T05:46:00.405Z",
   "store_count": 13,
   "stores": [
     {
@@ -138,13 +138,13 @@
       "name": "Tommy Hilfiger官方旗舰店",
       "host": "tommyhilfiger.tmall.com",
       "url": "https://tommyhilfiger.tmall.com/",
-      "snapshotDate": null,
-      "updatedAt": null,
-      "productCount": 0,
+      "snapshotDate": "2026-09-28",
+      "updatedAt": "2026-09-28T05:46:00.027Z",
+      "productCount": 1787,
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 0,
-      "listSalesCovered": 0
+      "imageCovered": 607,
+      "listSalesCovered": 1787
     },
     {
       "slug": "wilson",
