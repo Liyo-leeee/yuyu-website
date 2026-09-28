@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T09:36:00.953Z",
+  "generated_at": "2026-09-28T09:40:06.503Z",
   "store_count": 13,
   "stores": [
     {
@@ -189,7 +189,7 @@
       "host": "columbia.tmall.com",
       "url": "https://columbia.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T08:24:15.398Z",
+      "updatedAt": "2026-09-28T09:39:53.417Z",
       "productCount": 57,
       "categoryCount": 8,
       "categorySummary": [
