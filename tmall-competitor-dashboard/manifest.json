@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:04:05.228Z",
+  "generated_at": "2026-09-28T05:15:13.612Z",
   "store_count": 13,
   "stores": [
     {
@@ -86,13 +86,13 @@
       "name": "lululemon官方旗舰店",
       "host": "lululemon.tmall.com",
       "url": "https://lululemon.tmall.com/",
-      "snapshotDate": null,
-      "updatedAt": null,
-      "productCount": 0,
+      "snapshotDate": "2026-09-28",
+      "updatedAt": "2026-09-28T05:15:13.312Z",
+      "productCount": 1963,
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 0,
-      "listSalesCovered": 0
+      "imageCovered": 410,
+      "listSalesCovered": 1963
     },
     {
       "slug": "nike",
