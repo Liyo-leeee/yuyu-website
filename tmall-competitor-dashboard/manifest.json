@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T18:03:52.953Z",
+  "generated_at": "2026-09-28T22:01:03.774Z",
   "store_count": 13,
   "stores": [
     {
@@ -189,7 +189,7 @@
       "host": "columbia.tmall.com",
       "url": "https://columbia.tmall.com/",
       "snapshotDate": "2026-09-29",
-      "updatedAt": "2026-09-28T18:03:52.667Z",
+      "updatedAt": "2026-09-28T20:32:03.600Z",
       "productCount": 330,
       "categoryCount": 16,
       "categorySummary": [
@@ -203,7 +203,7 @@
         },
         {
           "category": "其他",
-          "count": 54
+          "count": 50
         },
         {
           "category": "夹克/外套",
@@ -211,7 +211,7 @@
         },
         {
           "category": "鞋履",
-          "count": 41
+          "count": 43
         },
         {
           "category": "羽绒服/马甲",
@@ -234,6 +234,10 @@
           "count": 4
         },
         {
+          "category": "针织/毛衣",
+          "count": 4
+        },
+        {
           "category": "T恤",
           "count": 4
         },
@@ -246,10 +250,6 @@
           "count": 2
         },
         {
-          "category": "针织/毛衣",
-          "count": 2
-        },
-        {
           "category": "包袋",
           "count": 1
         },
@@ -258,14 +258,14 @@
           "count": 1
         }
       ],
-      "detailCovered": 111,
-      "parameterCovered": 111,
+      "detailCovered": 134,
+      "parameterCovered": 134,
       "imageCovered": 330,
       "listSalesCovered": 330,
-      "priceAfterCovered": 111,
-      "priceBeforeCovered": 106,
-      "detailSoldCovered": 111,
-      "colorCovered": 111
+      "priceAfterCovered": 134,
+      "priceBeforeCovered": 128,
+      "detailSoldCovered": 134,
+      "colorCovered": 134
     },
     {
       "slug": "hazzys",
