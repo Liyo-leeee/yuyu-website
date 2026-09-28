@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T08:26:43.474Z",
+  "generated_at": "2026-09-28T08:29:19.604Z",
   "store_count": 13,
   "stores": [
     {
@@ -533,14 +533,47 @@
       "host": "nike.tmall.com",
       "url": "https://nike.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T07:25:59.156Z",
-      "productCount": 0,
-      "categoryCount": 0,
-      "categorySummary": [],
+      "updatedAt": "2026-09-28T08:29:19.285Z",
+      "productCount": 61,
+      "categoryCount": 8,
+      "categorySummary": [
+        {
+          "category": "防晒/功能上衣",
+          "count": 21
+        },
+        {
+          "category": "鞋履",
+          "count": 21
+        },
+        {
+          "category": "T恤",
+          "count": 7
+        },
+        {
+          "category": "运动用品",
+          "count": 5
+        },
+        {
+          "category": "其他",
+          "count": 4
+        },
+        {
+          "category": "包袋",
+          "count": 1
+        },
+        {
+          "category": "卫衣",
+          "count": 1
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 1
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 0,
-      "listSalesCovered": 0
+      "imageCovered": 61,
+      "listSalesCovered": 61
     },
     {
       "slug": "ralph-lauren",
