@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:46:00.405Z",
+  "generated_at": "2026-09-28T05:46:48.089Z",
   "store_count": 13,
   "stores": [
     {
@@ -151,8 +151,8 @@
       "name": "wilson官方旗舰店",
       "host": "wilson.tmall.com",
       "url": "https://wilson.tmall.com/",
-      "snapshotDate": null,
-      "updatedAt": null,
+      "snapshotDate": "2026-09-28",
+      "updatedAt": "2026-09-28T05:46:47.730Z",
       "productCount": 0,
       "detailCovered": 0,
       "parameterCovered": 0,
