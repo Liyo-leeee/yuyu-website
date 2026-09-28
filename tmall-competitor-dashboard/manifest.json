@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:46:48.089Z",
+  "generated_at": "2026-09-28T05:52:02.932Z",
   "store_count": 13,
   "stores": [
     {
@@ -164,13 +164,13 @@
       "name": "蕉下官方旗舰店",
       "host": "bananain.tmall.com",
       "url": "https://bananain.tmall.com/",
-      "snapshotDate": null,
-      "updatedAt": null,
-      "productCount": 0,
+      "snapshotDate": "2026-09-28",
+      "updatedAt": "2026-09-28T05:52:02.584Z",
+      "productCount": 472,
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 0,
-      "listSalesCovered": 0
+      "imageCovered": 158,
+      "listSalesCovered": 472
     }
   ]
 }
