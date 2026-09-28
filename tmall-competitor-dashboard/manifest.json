@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T04:13:52.004Z",
+  "generated_at": "2026-09-28T04:19:02.547Z",
   "store_count": 13,
   "stores": [
     {
@@ -9,11 +9,11 @@
       "host": "aigle.tmall.com",
       "url": "https://aigle.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T04:13:37.452Z",
+      "updatedAt": "2026-09-28T04:18:51.517Z",
       "productCount": 72,
-      "detailCovered": 2,
-      "parameterCovered": 1,
-      "imageCovered": 25,
+      "detailCovered": 3,
+      "parameterCovered": 2,
+      "imageCovered": 26,
       "listSalesCovered": 72
     },
     {
