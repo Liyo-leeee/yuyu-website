@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T07:31:49.825Z",
+  "generated_at": "2026-09-28T07:32:34.407Z",
   "store_count": 13,
   "stores": [
     {
@@ -722,7 +722,7 @@
       "host": "wilson.tmall.com",
       "url": "https://wilson.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T05:46:47.730Z",
+      "updatedAt": "2026-09-28T07:32:33.969Z",
       "productCount": 0,
       "categoryCount": 0,
       "categorySummary": [],
