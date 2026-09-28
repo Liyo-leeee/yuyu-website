@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T07:24:24.597Z",
+  "generated_at": "2026-09-28T07:25:15.951Z",
   "store_count": 13,
   "stores": [
     {
@@ -276,7 +276,7 @@
       "host": "heytopbbg.tmall.com",
       "url": "https://heytopbbg.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T04:59:57.170Z",
+      "updatedAt": "2026-09-28T07:25:15.638Z",
       "productCount": 0,
       "categoryCount": 0,
       "categorySummary": [],
