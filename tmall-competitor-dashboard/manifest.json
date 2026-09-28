@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T07:25:59.544Z",
+  "generated_at": "2026-09-28T07:31:49.825Z",
   "store_count": 13,
   "stores": [
     {
@@ -558,55 +558,79 @@
       "host": "thenorthface.tmall.com",
       "url": "https://thenorthface.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T05:29:17.744Z",
-      "productCount": 98,
-      "categoryCount": 10,
+      "updatedAt": "2026-09-28T07:31:49.390Z",
+      "productCount": 852,
+      "categoryCount": 16,
       "categorySummary": [
         {
-          "category": "包袋",
-          "count": 29
+          "category": "冲锋衣/硬壳",
+          "count": 140
         },
         {
           "category": "防晒/功能上衣",
-          "count": 23
-        },
-        {
-          "category": "冲锋衣/硬壳",
-          "count": 19
-        },
-        {
-          "category": "夹克/外套",
-          "count": 7
+          "count": 120
         },
         {
           "category": "其他",
-          "count": 7
-        },
-        {
-          "category": "配饰",
-          "count": 4
-        },
-        {
-          "category": "T恤",
-          "count": 4
-        },
-        {
-          "category": "裤装",
-          "count": 2
+          "count": 97
         },
         {
           "category": "羽绒服/马甲",
-          "count": 2
+          "count": 84
+        },
+        {
+          "category": "裤装",
+          "count": 79
+        },
+        {
+          "category": "包袋",
+          "count": 72
         },
         {
           "category": "鞋履",
+          "count": 54
+        },
+        {
+          "category": "夹克/外套",
+          "count": 52
+        },
+        {
+          "category": "配饰",
+          "count": 41
+        },
+        {
+          "category": "T恤",
+          "count": 40
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 29
+        },
+        {
+          "category": "卫衣",
+          "count": 19
+        },
+        {
+          "category": "棉服/保暖外套",
+          "count": 15
+        },
+        {
+          "category": "裙装",
+          "count": 8
+        },
+        {
+          "category": "衬衫",
+          "count": 1
+        },
+        {
+          "category": "POLO衫",
           "count": 1
         }
       ],
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 20,
-      "listSalesCovered": 98
+      "imageCovered": 209,
+      "listSalesCovered": 852
     },
     {
       "slug": "tommy-hilfiger",
