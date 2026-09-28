@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:28:00.777Z",
+  "generated_at": "2026-09-28T05:29:18.047Z",
   "store_count": 13,
   "stores": [
     {
@@ -125,13 +125,13 @@
       "name": "The North Face官方旗舰店",
       "host": "thenorthface.tmall.com",
       "url": "https://thenorthface.tmall.com/",
-      "snapshotDate": null,
-      "updatedAt": null,
-      "productCount": 0,
+      "snapshotDate": "2026-09-28",
+      "updatedAt": "2026-09-28T05:29:17.744Z",
+      "productCount": 98,
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 0,
-      "listSalesCovered": 0
+      "imageCovered": 20,
+      "listSalesCovered": 98
     },
     {
       "slug": "tommy-hilfiger",
