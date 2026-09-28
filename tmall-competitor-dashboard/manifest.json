@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:16:02.466Z",
+  "generated_at": "2026-09-28T05:28:00.777Z",
   "store_count": 13,
   "stores": [
     {
@@ -112,13 +112,13 @@
       "name": "RALPH LAUREN官方旗舰店",
       "host": "ralphlauren.tmall.com",
       "url": "https://ralphlauren.tmall.com/",
-      "snapshotDate": null,
-      "updatedAt": null,
-      "productCount": 0,
+      "snapshotDate": "2026-09-28",
+      "updatedAt": "2026-09-28T05:28:00.318Z",
+      "productCount": 2004,
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 0,
-      "listSalesCovered": 0
+      "imageCovered": 356,
+      "listSalesCovered": 2004
     },
     {
       "slug": "the-north-face",
