@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T05:15:13.612Z",
+  "generated_at": "2026-09-28T05:16:02.466Z",
   "store_count": 13,
   "stores": [
     {
@@ -99,8 +99,8 @@
       "name": "NIKE官方旗舰店",
       "host": "nike.tmall.com",
       "url": "https://nike.tmall.com/",
-      "snapshotDate": null,
-      "updatedAt": null,
+      "snapshotDate": "2026-09-28",
+      "updatedAt": "2026-09-28T05:16:02.060Z",
       "productCount": 0,
       "detailCovered": 0,
       "parameterCovered": 0,
