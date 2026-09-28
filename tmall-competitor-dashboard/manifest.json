@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T03:55:32.457Z",
+  "generated_at": "2026-09-28T04:00:33.804Z",
   "store_count": 13,
   "stores": [
     {
@@ -9,12 +9,12 @@
       "host": "aigle.tmall.com",
       "url": "https://aigle.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T03:55:16.076Z",
-      "productCount": 69,
+      "updatedAt": "2026-09-28T04:00:18.665Z",
+      "productCount": 72,
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 69,
-      "listSalesCovered": 69
+      "imageCovered": 23,
+      "listSalesCovered": 72
     },
     {
       "slug": "calvin-klein",
