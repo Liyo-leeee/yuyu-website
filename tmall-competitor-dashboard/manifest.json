@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T06:28:14.328Z",
+  "generated_at": "2026-09-28T07:24:24.597Z",
   "store_count": 13,
   "stores": [
     {
@@ -11,6 +11,73 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T06:25:03.457Z",
       "productCount": 868,
+      "categoryCount": 16,
+      "categorySummary": [
+        {
+          "category": "冲锋衣/硬壳",
+          "count": 183
+        },
+        {
+          "category": "夹克/外套",
+          "count": 170
+        },
+        {
+          "category": "防晒/功能上衣",
+          "count": 155
+        },
+        {
+          "category": "T恤",
+          "count": 87
+        },
+        {
+          "category": "裤装",
+          "count": 63
+        },
+        {
+          "category": "其他",
+          "count": 45
+        },
+        {
+          "category": "羽绒服/马甲",
+          "count": 45
+        },
+        {
+          "category": "包袋",
+          "count": 22
+        },
+        {
+          "category": "棉服/保暖外套",
+          "count": 21
+        },
+        {
+          "category": "衬衫",
+          "count": 16
+        },
+        {
+          "category": "裙装",
+          "count": 15
+        },
+        {
+          "category": "POLO衫",
+          "count": 13
+        },
+        {
+          "category": "配饰",
+          "count": 11
+        },
+        {
+          "category": "鞋履",
+          "count": 10
+        },
+        {
+          "category": "卫衣",
+          "count": 7
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 5
+        }
+      ],
       "detailCovered": 22,
       "parameterCovered": 22,
       "imageCovered": 317,
@@ -24,6 +91,85 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T04:45:24.465Z",
       "productCount": 2099,
+      "categoryCount": 19,
+      "categorySummary": [
+        {
+          "category": "裤装",
+          "count": 415
+        },
+        {
+          "category": "内衣/家居",
+          "count": 394
+        },
+        {
+          "category": "T恤",
+          "count": 326
+        },
+        {
+          "category": "夹克/外套",
+          "count": 215
+        },
+        {
+          "category": "配饰",
+          "count": 112
+        },
+        {
+          "category": "其他",
+          "count": 98
+        },
+        {
+          "category": "防晒/功能上衣",
+          "count": 95
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 83
+        },
+        {
+          "category": "包袋",
+          "count": 78
+        },
+        {
+          "category": "POLO衫",
+          "count": 54
+        },
+        {
+          "category": "羽绒服/马甲",
+          "count": 52
+        },
+        {
+          "category": "裙装",
+          "count": 49
+        },
+        {
+          "category": "卫衣",
+          "count": 45
+        },
+        {
+          "category": "鞋履",
+          "count": 35
+        },
+        {
+          "category": "衬衫",
+          "count": 33
+        },
+        {
+          "category": "棉服/保暖外套",
+          "count": 10
+        },
+        {
+          "category": "风衣/大衣",
+          "count": 3
+        },
+        {
+          "category": "冲锋衣/硬壳",
+          "count": 1
+        },
+        {
+          "category": "运动用品",
+          "count": 1
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 417,
@@ -35,8 +181,10 @@
       "host": "columbia.tmall.com",
       "url": "https://columbia.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T04:46:08.652Z",
+      "updatedAt": "2026-09-28T07:24:24.119Z",
       "productCount": 0,
+      "categoryCount": 0,
+      "categorySummary": [],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 0,
@@ -50,6 +198,73 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T04:59:10.212Z",
       "productCount": 1965,
+      "categoryCount": 16,
+      "categorySummary": [
+        {
+          "category": "夹克/外套",
+          "count": 384
+        },
+        {
+          "category": "裤装",
+          "count": 315
+        },
+        {
+          "category": "T恤",
+          "count": 234
+        },
+        {
+          "category": "衬衫",
+          "count": 185
+        },
+        {
+          "category": "裙装",
+          "count": 126
+        },
+        {
+          "category": "POLO衫",
+          "count": 122
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 119
+        },
+        {
+          "category": "配饰",
+          "count": 93
+        },
+        {
+          "category": "羽绒服/马甲",
+          "count": 93
+        },
+        {
+          "category": "卫衣",
+          "count": 67
+        },
+        {
+          "category": "鞋履",
+          "count": 62
+        },
+        {
+          "category": "包袋",
+          "count": 52
+        },
+        {
+          "category": "风衣/大衣",
+          "count": 48
+        },
+        {
+          "category": "其他",
+          "count": 28
+        },
+        {
+          "category": "棉服/保暖外套",
+          "count": 23
+        },
+        {
+          "category": "防晒/功能上衣",
+          "count": 14
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 445,
@@ -63,6 +278,8 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T04:59:57.170Z",
       "productCount": 0,
+      "categoryCount": 0,
+      "categorySummary": [],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 0,
@@ -76,6 +293,85 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T05:04:04.798Z",
       "productCount": 489,
+      "categoryCount": 19,
+      "categorySummary": [
+        {
+          "category": "夹克/外套",
+          "count": 94
+        },
+        {
+          "category": "裤装",
+          "count": 66
+        },
+        {
+          "category": "配饰",
+          "count": 49
+        },
+        {
+          "category": "其他",
+          "count": 45
+        },
+        {
+          "category": "T恤",
+          "count": 41
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 39
+        },
+        {
+          "category": "POLO衫",
+          "count": 36
+        },
+        {
+          "category": "鞋履",
+          "count": 28
+        },
+        {
+          "category": "卫衣",
+          "count": 18
+        },
+        {
+          "category": "防晒/功能上衣",
+          "count": 16
+        },
+        {
+          "category": "衬衫",
+          "count": 14
+        },
+        {
+          "category": "棉服/保暖外套",
+          "count": 13
+        },
+        {
+          "category": "风衣/大衣",
+          "count": 11
+        },
+        {
+          "category": "羽绒服/马甲",
+          "count": 8
+        },
+        {
+          "category": "包袋",
+          "count": 3
+        },
+        {
+          "category": "内衣/家居",
+          "count": 3
+        },
+        {
+          "category": "冲锋衣/硬壳",
+          "count": 2
+        },
+        {
+          "category": "裙装",
+          "count": 2
+        },
+        {
+          "category": "运动用品",
+          "count": 1
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 109,
@@ -89,6 +385,69 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T05:15:13.312Z",
       "productCount": 1963,
+      "categoryCount": 15,
+      "categorySummary": [
+        {
+          "category": "其他",
+          "count": 454
+        },
+        {
+          "category": "裤装",
+          "count": 425
+        },
+        {
+          "category": "防晒/功能上衣",
+          "count": 250
+        },
+        {
+          "category": "夹克/外套",
+          "count": 184
+        },
+        {
+          "category": "T恤",
+          "count": 119
+        },
+        {
+          "category": "配饰",
+          "count": 114
+        },
+        {
+          "category": "卫衣",
+          "count": 79
+        },
+        {
+          "category": "鞋履",
+          "count": 70
+        },
+        {
+          "category": "内衣/家居",
+          "count": 69
+        },
+        {
+          "category": "包袋",
+          "count": 61
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 59
+        },
+        {
+          "category": "运动用品",
+          "count": 28
+        },
+        {
+          "category": "羽绒服/马甲",
+          "count": 19
+        },
+        {
+          "category": "POLO衫",
+          "count": 19
+        },
+        {
+          "category": "裙装",
+          "count": 13
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 410,
@@ -102,6 +461,8 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T05:16:02.060Z",
       "productCount": 0,
+      "categoryCount": 0,
+      "categorySummary": [],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 0,
@@ -115,6 +476,77 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T05:28:00.318Z",
       "productCount": 2004,
+      "categoryCount": 17,
+      "categorySummary": [
+        {
+          "category": "其他",
+          "count": 450
+        },
+        {
+          "category": "POLO衫",
+          "count": 268
+        },
+        {
+          "category": "裤装",
+          "count": 217
+        },
+        {
+          "category": "衬衫",
+          "count": 216
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 211
+        },
+        {
+          "category": "夹克/外套",
+          "count": 185
+        },
+        {
+          "category": "T恤",
+          "count": 122
+        },
+        {
+          "category": "配饰",
+          "count": 121
+        },
+        {
+          "category": "裙装",
+          "count": 77
+        },
+        {
+          "category": "卫衣",
+          "count": 44
+        },
+        {
+          "category": "羽绒服/马甲",
+          "count": 30
+        },
+        {
+          "category": "鞋履",
+          "count": 23
+        },
+        {
+          "category": "包袋",
+          "count": 18
+        },
+        {
+          "category": "风衣/大衣",
+          "count": 7
+        },
+        {
+          "category": "运动用品",
+          "count": 7
+        },
+        {
+          "category": "内衣/家居",
+          "count": 5
+        },
+        {
+          "category": "泳装/沙滩",
+          "count": 3
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 356,
@@ -128,6 +560,49 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T05:29:17.744Z",
       "productCount": 98,
+      "categoryCount": 10,
+      "categorySummary": [
+        {
+          "category": "包袋",
+          "count": 29
+        },
+        {
+          "category": "防晒/功能上衣",
+          "count": 23
+        },
+        {
+          "category": "冲锋衣/硬壳",
+          "count": 19
+        },
+        {
+          "category": "夹克/外套",
+          "count": 7
+        },
+        {
+          "category": "其他",
+          "count": 7
+        },
+        {
+          "category": "配饰",
+          "count": 4
+        },
+        {
+          "category": "T恤",
+          "count": 4
+        },
+        {
+          "category": "裤装",
+          "count": 2
+        },
+        {
+          "category": "羽绒服/马甲",
+          "count": 2
+        },
+        {
+          "category": "鞋履",
+          "count": 1
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 20,
@@ -141,6 +616,77 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T05:46:00.027Z",
       "productCount": 1787,
+      "categoryCount": 17,
+      "categorySummary": [
+        {
+          "category": "夹克/外套",
+          "count": 387
+        },
+        {
+          "category": "T恤",
+          "count": 284
+        },
+        {
+          "category": "裤装",
+          "count": 232
+        },
+        {
+          "category": "POLO衫",
+          "count": 180
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 125
+        },
+        {
+          "category": "裙装",
+          "count": 118
+        },
+        {
+          "category": "羽绒服/马甲",
+          "count": 99
+        },
+        {
+          "category": "棉服/保暖外套",
+          "count": 69
+        },
+        {
+          "category": "配饰",
+          "count": 69
+        },
+        {
+          "category": "卫衣",
+          "count": 52
+        },
+        {
+          "category": "其他",
+          "count": 45
+        },
+        {
+          "category": "包袋",
+          "count": 26
+        },
+        {
+          "category": "防晒/功能上衣",
+          "count": 25
+        },
+        {
+          "category": "风衣/大衣",
+          "count": 22
+        },
+        {
+          "category": "鞋履",
+          "count": 21
+        },
+        {
+          "category": "衬衫",
+          "count": 17
+        },
+        {
+          "category": "内衣/家居",
+          "count": 16
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 607,
@@ -154,6 +700,8 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T05:46:47.730Z",
       "productCount": 0,
+      "categoryCount": 0,
+      "categorySummary": [],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 0,
@@ -167,6 +715,57 @@
       "snapshotDate": "2026-09-28",
       "updatedAt": "2026-09-28T05:52:02.584Z",
       "productCount": 472,
+      "categoryCount": 12,
+      "categorySummary": [
+        {
+          "category": "内衣/家居",
+          "count": 141
+        },
+        {
+          "category": "配饰",
+          "count": 91
+        },
+        {
+          "category": "裤装",
+          "count": 86
+        },
+        {
+          "category": "防晒/功能上衣",
+          "count": 54
+        },
+        {
+          "category": "其他",
+          "count": 42
+        },
+        {
+          "category": "T恤",
+          "count": 33
+        },
+        {
+          "category": "夹克/外套",
+          "count": 15
+        },
+        {
+          "category": "裙装",
+          "count": 5
+        },
+        {
+          "category": "鞋履",
+          "count": 2
+        },
+        {
+          "category": "包袋",
+          "count": 1
+        },
+        {
+          "category": "卫衣",
+          "count": 1
+        },
+        {
+          "category": "羽绒服/马甲",
+          "count": 1
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
       "imageCovered": 158,
