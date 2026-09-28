@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T08:40:52.013Z",
+  "generated_at": "2026-09-28T08:43:23.720Z",
   "store_count": 13,
   "stores": [
     {
@@ -833,14 +833,55 @@
       "host": "wilson.tmall.com",
       "url": "https://wilson.tmall.com/",
       "snapshotDate": "2026-09-28",
-      "updatedAt": "2026-09-28T07:32:33.969Z",
-      "productCount": 0,
-      "categoryCount": 0,
-      "categorySummary": [],
+      "updatedAt": "2026-09-28T08:43:23.180Z",
+      "productCount": 54,
+      "categoryCount": 10,
+      "categorySummary": [
+        {
+          "category": "运动用品",
+          "count": 19
+        },
+        {
+          "category": "防晒/功能上衣",
+          "count": 7
+        },
+        {
+          "category": "裤装",
+          "count": 6
+        },
+        {
+          "category": "T恤",
+          "count": 5
+        },
+        {
+          "category": "裙装",
+          "count": 4
+        },
+        {
+          "category": "POLO衫",
+          "count": 4
+        },
+        {
+          "category": "配饰",
+          "count": 3
+        },
+        {
+          "category": "针织/毛衣",
+          "count": 3
+        },
+        {
+          "category": "夹克/外套",
+          "count": 2
+        },
+        {
+          "category": "其他",
+          "count": 1
+        }
+      ],
       "detailCovered": 0,
       "parameterCovered": 0,
-      "imageCovered": 0,
-      "listSalesCovered": 0
+      "imageCovered": 54,
+      "listSalesCovered": 54
     },
     {
       "slug": "banana-under",
