@@ -61,7 +61,7 @@
     <section class="panel"><h2>数据口径</h2><div class="method"><div><strong>商品数量与销量</strong><span>当日完整在售列表按商品 ID 去重；列表总销量为当日列表抓取时页面显示值。实时排序可能造成少量跨页重复。</span></div><div><strong>价格与折扣</strong><span>优惠后价仅使用当日详情页明确标出的优惠后价格；普通展示价注明口径，页面遮挡的数字原样展示，不推算。优惠前价优先使用当日详情，没有时按商品 ID 采用曾抓到的历史值并标注来源日期。</span></div><div><strong>颜色与标签</strong><span>颜色数按详情页颜色选项计数；保存完整颜色名称、末尾色号和该颜色的角标标签。</span></div><div><strong>更新与风控</strong><span>商品列表和详情按低频抓取；出现验证码、滑块、登录失效或机器人提示时暂停，不绕过平台风控。</span></div></div></section>
     <footer class="footer">数据仅用于市场观察；页面展示的是抓取时点可见信息，不代表平台官方销售报表。</footer>
   </div>
-  <script src="./data.js?v=2026-10-21T06%3A29%3A19.601Z-2026-10-21T06%3A28%3A17.852Z-daily-v2"></script>
+  <script src="./data.js?v=2026-10-21T06%3A57%3A28.696Z-2026-10-21T06%3A56%3A22.238Z-daily-v2"></script>
   <script>
     const data=window.TMALL_DASHBOARD_DATA; const snapshots=(data.dailySnapshots||[]).slice().sort((a,b)=>a.date.localeCompare(b.date)); const state={page:1,pageSize:50,snapshotDate:snapshots.at(-1)?.date||data.meta.snapshotDate};
     const $=id=>document.getElementById(id); const money=n=>n===null||n===undefined?'待抓取':'¥'+Number(n).toLocaleString('zh-CN',{minimumFractionDigits:2,maximumFractionDigits:2}); const detailMoney=(n,status)=>n===null||n===undefined?(status==='已抓取'?'页面未显示':'待抓取'):money(n); const detailCount=(n,status)=>status==='已抓取'?(n===null||n===undefined?'页面未显示':Number(n).toLocaleString('zh-CN')):'待抓取'; const integer=n=>Number(n).toLocaleString('zh-CN');
